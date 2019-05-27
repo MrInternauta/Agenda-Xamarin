@@ -1,0 +1,5 @@
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.ViewModels\bin\Debug\Agenda.ViewModels.dll
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.ViewModels\bin\Debug\Agenda.ViewModels.pdb
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.ViewModels\obj\Debug\Agenda.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.ViewModels\obj\Debug\Agenda.ViewModels.dll
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.ViewModels\obj\Debug\Agenda.ViewModels.pdb

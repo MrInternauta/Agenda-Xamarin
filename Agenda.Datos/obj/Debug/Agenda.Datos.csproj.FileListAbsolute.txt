@@ -1,0 +1,7 @@
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\bin\Debug\Agenda.Datos.dll
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\bin\Debug\Agenda.Datos.pdb
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\bin\Debug\Agenda.Entidades.dll
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\bin\Debug\Agenda.Entidades.pdb
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\obj\Debug\Agenda.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\obj\Debug\Agenda.Datos.dll
+C:\Users\Harf-04\Desktop\Agenda MVC\Agenda\Agenda.Datos\obj\Debug\Agenda.Datos.pdb
